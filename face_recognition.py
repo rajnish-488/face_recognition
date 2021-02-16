@@ -60,7 +60,7 @@ def go():
         resized = cv2.resize(frame,(int(frame.shape[1]),  int(frame.shape[0])))
         cv2.imshow("THW ATTENDENCE RECORD",resized)
         key = cv2.waitKey(1)
-        if key == ord('q'):
+        if key == ord('e'):
             break
 
     video.release()
