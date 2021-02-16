@@ -1,6 +1,6 @@
 # face_recognition
 
-the face_recognition.py is the original file and img.py is the cv2 practise done by me if wanted you can see it.
+the "face_recognition_code.py" is the original file and img.py is the cv2 practise done by me if wanted you can see it.
  it contens face detecrion codes.
 
  to run the code you must be needed to install some packages usiong pip
@@ -15,5 +15,5 @@ the basic face indentification code is been ready now .
 thinking of using the Qtpy to desgin the GUI.(Can't use thinker to do so, due to complexity of the code)
 
 
-to net infoemation visit "realpython" and article by Adams gretly(inventer of face_recognition)
+to net infoemation visit "realpython" and article by Adam Geitgey(inventer of face_recognition)
 
