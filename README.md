@@ -6,7 +6,7 @@ the "face_recognition_code.py" is the original file and img.py is the cv2 practi
  to run the code you must be needed to install some packages usiong pip
 1. numpy  
 2.camke  
-3.dlib  
+3.dlib  (for installing it you must have visual studio community version with c++ extenstion installed in it)  
 4.face_recognition  
 
 the basic face indentification code is been ready now .
