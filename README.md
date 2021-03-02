@@ -1,6 +1,6 @@
 # face_recognition
 
-the "face_recognition_code.py" is the original file and img.py is the cv2 practise done by me if wanted you can see it.
+the "GUI.py" is the original file and img.py is the cv2 practise done by me if wanted you can see it.
  it contens face detecrion codes.
 
  to run the code you must be needed to install some packages usiong pip
