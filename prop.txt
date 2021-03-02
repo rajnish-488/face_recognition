@@ -1,2 +1,3 @@
 ####### FACE-RECOGNITION AND ATTENDENCE WITH AUTO STATISTICS PRIDICTION MODEL #######
+now the data of attendance can be fudge from the user and can be inputed.
 
