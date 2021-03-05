@@ -5,7 +5,7 @@ from GUI import geton
 from PIL import Image, ImageTk
 
 def on():
-    root.mainloop()
+    root.destroy()
     geton()
 
 root = Tk()
@@ -27,3 +27,4 @@ f2.place(x =20 , y=165,height = 40, width = 360)
 startit = Button(root, text="START"  , bg = "blue",height = 1,fg='yellow',width = 24, command = on).place(x=20,y=210)
 stats = Button(root, text="STATISTICS" ,bg = "blue",height = 1,fg='yellow',width = 24).place(x=200,y=210)
 
+root.mainloop()
